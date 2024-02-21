@@ -1,0 +1,2 @@
+# Vagrant
+Corner store.
